@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I develop software
+I develop software.
+
+You can find me on gitlab [here](https://gitlab.com/arthrp) (using it more than github these days).
 
 <!--
 **arthrp/arthrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
