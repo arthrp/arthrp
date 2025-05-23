@@ -2,7 +2,7 @@
 
 I develop software.
 
-You can find me on gitlab [here](https://gitlab.com/arthrp) (using it more than github these days).
+You can find me on gitlab [here](https://gitlab.com/arthrp)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthrp&exclude_repo=Gorgosaurus&langs_count=10&size_weight=0.5&count_weight=0.5&hide=css,html)
 
